@@ -1,12 +1,12 @@
 <h1 align="center">Icecream API for Android</h1>
 
 <p align="center">
-    <a href="https://jitpack.io/#whoisjeeva/icecream"><img src="https://img.shields.io/jitpack/v/github/whoisjeeva/icecream?style=for-the-badge" alt="Release"></a>
-    <a href="https://travis-ci.com/whoisjeeva/icecream"><img src="https://img.shields.io/travis/com/whoisjeeva/icecream/master?style=for-the-badge" alt="Build Status"></a>
-    <a href="https://github.com/whoisjeeva/icecream/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/whoisjeeva/icecream.svg?style=for-the-badge" alt="License"></a>
-<!--     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/whoisjeeva/icecream?logo=GitHub&style=for-the-badge"> -->
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/whoisjeeva/icecream?logo=GitHub&style=for-the-badge">
-    <a href="https://github.com/whoisjeeva/icecream/issues"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/whoisjeeva/icecream?style=for-the-badge"></a>
+    <a href="https://jitpack.io/#gumify/icecream"><img src="https://img.shields.io/jitpack/v/github/gumify/icecream?style=for-the-badge" alt="Release"></a>
+    <a href="https://travis-ci.com/gumify/icecream"><img src="https://img.shields.io/travis/com/gumify/icecream/master?style=for-the-badge" alt="Build Status"></a>
+    <a href="https://github.com/gumify/icecream/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/gumify/icecream.svg?style=for-the-badge" alt="License"></a>
+<!--     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gumify/icecream?logo=GitHub&style=for-the-badge"> -->
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gumify/icecream?logo=GitHub&style=for-the-badge">
+    <a href="https://github.com/gumify/icecream/issues"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/gumify/icecream?style=for-the-badge"></a>
 </p>
 
 
@@ -26,7 +26,7 @@ allprojects {
 Add the dependency
 
 ```gradle
-implementation "com.github.whoisjeeva.icecream:$icecream_version"
+implementation "com.github.gumify.icecream:$icecream_version"
 ```
 
 Create an icecream instance
